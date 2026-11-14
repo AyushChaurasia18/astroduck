@@ -1,0 +1,12 @@
+{
+  "name": "astroduck",
+  "owner": { "name": "Ayush" },
+  "description": "astroduck for Claude Desktop: pixel planets, galaxies, black holes and astroducks behind the conversation.",
+  "plugins": [
+    {
+      "name": "astroduck",
+      "source": "./",
+      "description": "astroduck for Claude Desktop: a black theme with the solar system's planets, galaxies, black holes and astroducks drifting behind the conversation."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astroduck",
+  "version": "1.0.4",
+  "description": "astroduck: a black theme with the planets of the solar system, galaxies, black holes and astroducks drifting behind the conversation (Desktop app)",
+  "author": { "name": "Ayush" },
+  "license": "MIT"
+}

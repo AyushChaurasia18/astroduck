@@ -2,7 +2,7 @@
 
 A black theme for the Claude desktop app, as a mod, with an animated pixel sky behind the conversation: the eight planets of the solar system, random planets and moons, galaxies, black holes, and astroducks in helmets with jetpacks. Every session draws a new random sky.
 
-![astroduck](./Preview/astroduck.jpg)
+![astroduck](./Preview/astroduck.gif)
 
 ## Install
 
